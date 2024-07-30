@@ -1,0 +1,2 @@
+--git is a version control system that is used for managing changes to your code
+--merge conflict occurs when you try to merge a file that is in different branches where a certain piece of code is contradicting in the two branches
