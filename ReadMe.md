@@ -21,3 +21,14 @@
 <!-- how to solve -->
 --delete line 13,15,16 and 17
 --add the changes to the main branch then commit and you have solved the merge conflict
+
+<!-- steps to create a merge conflict -->
+-create a file
+-commit file to master branch
+-create new branch
+-make some changes to the file
+-commit the changes to the new file
+-switch to the master branch
+-make some changes to the same file
+-add and commit the changes to the master branch
+-try to merge the new branch to the master branch
